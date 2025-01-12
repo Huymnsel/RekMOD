@@ -282,7 +282,7 @@
         "outerColor": [234,0,0],
         "innerColor": [255,255,255],
         "uniqueName": "Diplomatic Marriage",
-        "uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns."],
+        "uniques": ["Can spend Gold to annex or puppet a City-State that has been your Ally for [5] turns"],
         "cities": [
             "Vienna","Salzburg","Graz","Linz","Klagenfurt","Bregenz","Innsbruck","Kitzbühel","St. Pölten","Eisenstadt",
             "Villach","Zwettl","Traun","Wels","Dornbirn","Feldkirch","Amstetten","Bad Ischl","Wolfsberg","Kufstein",
@@ -2329,7 +2329,7 @@
         "uniques": [
             "Enables embarkation for land units",
             "Enables [All] units to enter ocean tiles",
-            "Defense bonus when embarked <for [All] units>",
+            "[+100]% Strength <when defending> <when [Embarked]> <for [All] units>",
             "[+1] Movement <for [Embarked] units>",
             "[+2] Sight <for [Embarked] units>",
             "[+10]% Strength <within [2] tiles of a [Moai]>"
