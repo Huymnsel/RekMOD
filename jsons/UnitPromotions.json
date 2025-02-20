@@ -676,7 +676,7 @@
     {
         "name": "[Conquistador] ability",
         "uniques": [
-            "Defense bonus when embarked"
+            "[+100]% Strength <when defending> <when [Embarked]>"
         ]
     },
     {
@@ -749,7 +749,7 @@
     {
         "name": "War Canoes", // Songhai
         "uniques": [
-            "Defense bonus when embarked"
+            "[+100]% Strength <when defending> <when [Embarked]>"
         ]
     },
     {
